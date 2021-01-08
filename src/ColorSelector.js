@@ -17,7 +17,6 @@ export default class ColorSelector extends Component {
     return (
       <div 
       id="colorSelector" 
-      // onClick={callback}
       >
         {this.makeColorSwatches()}
       </div>
